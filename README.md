@@ -1,12 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌐 Portfolio de Tristan Kempes
 
-**Prerequisites:**  Node.js
+Este es mi portfolio personal como **Desarrollador Android & Fullstack**, donde muestro mis habilidades, proyectos y formas de contacto.
 
+🔗 **Demo en vivo**: [Ver portfolio en Vercel](https://portfolio-web-rho-rust.vercel.app)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Tecnologías utilizadas
+- **Frontend**: [Next.js](https://nextjs.org/), [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: Spring Boot (en proyectos personales)
+- **Lenguajes**: JavaScript, TypeScript
+- **Otros**: GitHub Actions, Vercel
+
+---
+
+## ✨ Características
+- Diseño **responsive** (adaptado a móvil, tablet y escritorio).
+- **Footer inteligente**: en móvil solo muestra contacto, en escritorio incluye más información.
+- Secciones:
+  - **Habilidades**: iconos de tecnologías que domino.
+  - **Proyectos**: ejemplos de apps y desarrollos.
+  - **Contacto**: email, LinkedIn y GitHub.
+- Optimización con `next/image` para carga rápida de imágenes.
