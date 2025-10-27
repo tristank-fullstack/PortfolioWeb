@@ -51,7 +51,7 @@ export const translationsData = {
         description:
           'Personal portfolio focused on speed and clarity. Built with React + TypeScript, TailwindCSS, and Framer Motion, featuring a responsive dark theme and bilingual content (EN/ES). Includes a structured projects section linking to repositories and tech stacks.',
         tech: ['React', 'TypeScript', 'TailwindCSS', 'Framer Motion'],
-        github: 'https://github.com/tristank-fullstack/Portfolio-Web',
+        github: 'https://github.com/tristank-fullstack/PortfolioWeb',
       },
     },
 
@@ -164,7 +164,7 @@ export const translationsData = {
         description:
           'Portfolio personal orientado a velocidad y claridad. Construido con React + TypeScript, TailwindCSS y Framer Motion, con diseño responsive en tema oscuro y contenido bilingüe (ES/EN). Incluye una sección de proyectos que enlaza a repositorios y stacks tecnológicos.',
         tech: ['React', 'TypeScript', 'TailwindCSS', 'Framer Motion'],
-        github: 'https://github.com/tristank-fullstack/Portfolio-Web',
+        github: 'https://github.com/tristank-fullstack/PortfolioWeb',
       },
     },
 
