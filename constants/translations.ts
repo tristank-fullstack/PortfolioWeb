@@ -83,14 +83,14 @@ export const translationsData = {
       education: [
         {
           degree: 'Multiplatform Application Development (DAM)',
-          institution: 'Universitat Oberta de Catalunya',
+          institution: 'CDM Escuela de profesiones digitales',
           duration: '2023 - 2025',
           description:
             'Higher vocational training focused on the development of applications for multiple platforms, with emphasis on modern programming languages, databases, and software development best practices.',
         },
         {
           degree: 'Microcomputer Systems and Networks (SMR)',
-          institution: 'Vocational Training',
+          institution: 'CDM Escuela de profesiones digitales',
           duration: '2021 - 2023',
           description:
             'Intermediate vocational training focused on IT systems, networking, and user support, providing a solid foundation in computer science and IT infrastructure.',
@@ -197,14 +197,14 @@ export const translationsData = {
       education: [
         {
           degree: 'Desarrollo de Aplicaciones Multiplataforma (DAM)',
-          institution: 'Universitat Oberta de Catalunya',
+          institution: 'CDM Escuela de profesiones digitales',
           duration: '2023 - 2025',
           description:
             'Ciclo formativo de grado superior orientado al desarrollo de aplicaciones para múltiples plataformas, con énfasis en lenguajes modernos, bases de datos y buenas prácticas de desarrollo de software.',
         },
         {
           degree: 'Sistemas Microinformáticos y Redes (SMR)',
-          institution: 'Formación Profesional',
+          institution: 'CDM Escuela de profesiones digitales',
           duration: '2021 - 2023',
           description:
             'Ciclo formativo de grado medio centrado en sistemas informáticos, redes y soporte a usuarios, proporcionando una base sólida en informática e infraestructuras IT.',
